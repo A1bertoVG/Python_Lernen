@@ -1,12 +1,9 @@
-#Python Grundlagen
+# Python Grundlagen
 
 Python Grundkonzepte und Funktionen wie:
   
-  Mathematikfunktionen
-  
-  Datentypen
-  
-  Variablen und Konstanten
-  
-  usw...
+    Mathematikfunktionen
+    Datentypen
+    Variablen und Konstanten
+    usw...
   
