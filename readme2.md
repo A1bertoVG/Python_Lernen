@@ -1,4 +1,4 @@
-#Datentypen
+# Datentypen
 
 _boolean_: **True** oder **False**.
 
