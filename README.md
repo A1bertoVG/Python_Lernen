@@ -1,3 +1,8 @@
-#Introduction to Python
+#Python Grundlagen
 
-description here
+Python Grundkonzepte und Funktionen wie:
+  Mathematikfunktionen
+  Datentypen
+  Variablen und Konstanten
+  usw...
+  
